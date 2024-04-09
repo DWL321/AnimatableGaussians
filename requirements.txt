@@ -1,7 +1,7 @@
 glfw==2.4.0
 libigl
 joblib==0.17.0
-numpy==1.21.6
+numpy==1.23.5
 opencv-python==4.5.5.64
 plyfile==1.0.2
 PyOpenGL==3.1.0
